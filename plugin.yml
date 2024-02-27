@@ -1,0 +1,4 @@
+name: OmegionAPI
+version: 1.0
+main: fr.omegion.api.OmegionAPI
+author: Hoooki
